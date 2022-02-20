@@ -70,8 +70,6 @@ function generateMarkdown(data) {
   
   ## [Description](#table-of-contents)
   ${data.what}
-  ${data.why}
-  ${data.how}
   ## [Installation](#table-of-contents)
   ${data.installation}
   ## [Usage](#table-of-contents)
