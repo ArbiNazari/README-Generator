@@ -1,28 +1,28 @@
+
 # Challenge9: Professional README Generator
-
-# Table fo Contents
-
-  - Appliction
-  - Requirements and Task
-  - Installtion
-  - Usage
-  - Technology
-  - License & Badges
-  - Test
-  - Contributing
-  - Questions & Contact
-
-# Application: 
-
+  
+  
+  ![badge](https://img.shields.io/badge/license-apache-blue)
+    
+  ## Table-of-Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  
+  * [License](#license)
+    
+  * [Contributing](#contributing)
+  * [Questions](#questions)
+  
+  ## [Description](#table-of-contents)
     As a developer, I want a quick professional Readme.md Generator for Github
     posted projects.
 
     The Readme.md is the key to the infrastructure of the applications. It provides the 
     user, developer and client the concept of the application, design, functionality,
     purpose and key information - like a whitepaper without the detailed diagnostic. 
- 
 
-# Requirements and Task:
+    # Requirements and Task:
 
    - The generator must have a command-line and input.
    - User is prompted for information about their application respistory in order
@@ -42,31 +42,28 @@
      entitled "Questions", with instructions on how to reach me with additional questions.
    - Table of Contents - must correspondence with the sceiot of the README. 
 
-# Installation:
+  ## [Installation](#table-of-contents)
 
-  - Starter Code: Github - https://github.com/coding-boot-camp/potential-enigma
-  - npm install
-
-# Usage:
-
-  - Run node index.js
-  - Answer the prompted question in good details.
-  - Enjoy your Generated Readme.md.
-
-# License & Badges
-
-# Technology:
-
-  - Node.js
-  - Inquirer.js
-
-# Test:
-
-# Contributing:
-
-   - Feel free to contact me if there are any issues or ideas to implement
-
-# Questions & Contact:
+  npm install
   
-  - [GitHub](https://github.com/arbi nazari)
-  - [Email: arbi nazari](mailto:arbi nazari)
+  ## [Usage](#table-of-contents)
+
+  After installing the required applications (Node.js) - run: node index.js
+  
+  
+  
+  ## [License](#table-of-contents)
+  The application is covered under the following license:
+  
+  [apache](https://choosealicense.com/licenses/apache)
+    
+    
+  ## [Contributing](#table-of-contents)
+  
+    Feel free to contact me if there are any issues or ideas to implement.
+    
+  ## [Questions](#table-of-contents)
+  Contact Information Below:
+  [GitHub](https://github.com/arbinazari)
+
+  [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com)

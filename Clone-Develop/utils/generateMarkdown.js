@@ -83,7 +83,7 @@ function generateMarkdown(data) {
   
   ${renderContributingSection(data.confirmContributers, data.contribute)}
   ## [Questions](#table-of-contents)
-  Contact Information Below:
+  My Contact Information Below:
   [GitHub](https://github.com/${data.githubUsername})
   [Email: ${data.email}](mailto:${data.email})
 `;
