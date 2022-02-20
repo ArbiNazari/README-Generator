@@ -1,8 +1,8 @@
 
-  # test
+  # Sample - Professional README Generator
   
   
-  ![badge](https://img.shields.io/badge/license-agpl-blue)
+  ![badge](https://img.shields.io/badge/license-apache-blue)
     
   ## Table-of-Contents
   * [Description](#description)
@@ -15,20 +15,20 @@
   * [Contact & Questions](#questions)
   
   ## [Description](#table-of-contents)
-  test
+  A a quick professional Readme.md Generator for Github
   undefined
   undefined
   ## [Installation](#table-of-contents)
-  test
+  npm install
   ## [Usage](#table-of-contents)
-  test
+  node index.js
   
   
   
   ## [License](#table-of-contents)
   This application is being covered under the following license:
   
-  [agpl](https://choosealicense.com/licenses/agpl)
+  [apache](https://choosealicense.com/licenses/apache)
     
     
   ## [Contributing](#table-of-contents)
