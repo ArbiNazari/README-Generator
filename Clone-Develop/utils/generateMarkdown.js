@@ -2,7 +2,7 @@
 function renderContributingSection(confirmContributers, data) {
   if (!confirmContributers) {
     return `
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+    Feel free to contact me if there are any issues or ideas to implement.
     `;
   } else {
     return `
@@ -66,7 +66,6 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   ${renderLicenseTOC(data.license)}
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
@@ -78,15 +77,11 @@ function generateMarkdown(data) {
   ## [Usage](#table-of-contents)
   ${data.usage}
   
-  For more information on how to add screenshots for examples, visit the following website:
-  
   
   ${renderLicenseSection(data.license)}
   ## [Contributing](#table-of-contents)
   
   ${renderContributingSection(data.confirmContributers, data.contribute)}
-  ## [Tests](#table-of-contents)
-  ${data.test}
   ## [Questions](#table-of-contents)
   Contact Information Below:
   [GitHub](https://github.com/${data.githubUsername})

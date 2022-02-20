@@ -1,8 +1,8 @@
 
-  # Arbi
+  # arbi nazari
   
   
-  ![badge](https://img.shields.io/badge/license-mit-blue)
+  ![badge](https://img.shields.io/badge/license-apache-blue)
     
   ## Table-of-Contents
   * [Description](#description)
@@ -12,36 +12,31 @@
   * [License](#license)
     
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
-  Make a generator that functions
+  arbi nazari
   undefined
   undefined
   ## [Installation](#table-of-contents)
-  run node install
+  arbi nazari
   ## [Usage](#table-of-contents)
   undefined
-  
-  For more information on how to add screenshots for examples, visit the following website:
   
   
   
   ## [License](#table-of-contents)
   The application is covered under the following license:
   
-  [mit](https://choosealicense.com/licenses/mit)
+  [apache](https://choosealicense.com/licenses/apache)
     
     
   ## [Contributing](#table-of-contents)
   
   
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+    Feel free to contact me if there are any issues or ideas to implement.
     
-  ## [Tests](#table-of-contents)
-  undefined
   ## [Questions](#table-of-contents)
   Contact Information Below:
-  [GitHub](https://github.com/arbinazari)
-  [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com)
+  [GitHub](https://github.com/arbi nazari)
+  [Email: arbi nazari](mailto:arbi nazari)
