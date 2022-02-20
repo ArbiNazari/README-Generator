@@ -37,7 +37,7 @@
      is added near the top of the README and a notice is added to the section of the README 
      entitled License that explains which license the application is covered under.
    - Github - user enters Github username and this is added to the section of the README
-     entitled "Qurstions", with a link to their Github profile.
+     entitled "Questions", with a link to their Github profile.
    - Email address - uwder must insert their email address which is added to the section
      entitled "Questions", with instructions on how to reach me with additional questions.
    - Table of Contents - must correspondence with the sceiot of the README. 

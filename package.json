@@ -1,0 +1,22 @@
+{
+  "name": "Challenge9 Professional README Generator",
+  "version": "1.0.0",
+  "description": "Readme Generator By Arbi Nazari",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbiNazari/README-Generator.git"
+  },
+  "author": "Arbi Nazari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArbiNazari/README-Generator/issues"
+  },
+  "homepage": "https://github.com/ArbiNazari/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
