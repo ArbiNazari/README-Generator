@@ -1,5 +1,5 @@
 
-  # Github Readme.md Generator
+  # Professional Readme.md Generator
   
   
   ![badge](https://img.shields.io/badge/license-apache-blue)
@@ -15,9 +15,9 @@
   * [Contact & Questions](#questions)
   
   ## [Description](#table-of-contents)
-  A professional Readme.md Generator for Github Projects
+  A quick but professional Readme.md Generator
   ## [Installation](#table-of-contents)
-  npm install - install node
+  npm install
   ## [Usage](#table-of-contents)
   node index.js
   
