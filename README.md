@@ -22,7 +22,7 @@
     user, developer and client the concept of the application, design, functionality,
     purpose and key information - like a whitepaper without the detailed diagnostic. 
 
-    # Requirements and Task:
+    Application Requirements and My Task:
 
    - The generator must have a command-line and input.
    - User is prompted for information about their application respistory in order
