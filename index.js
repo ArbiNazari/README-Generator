@@ -44,6 +44,19 @@ const questions = [
         }
     },
     {
+        type: 'input',
+        name: 'usage',
+        message: 'Please provide usage instructions for your project (Required):',
+        validate: installInput => {
+            if (installInput) {
+                return true;
+            } else {
+                console.log('Usage Instructions & Examples');
+                return false;
+            }
+        }
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Which license will you use for your project?',
