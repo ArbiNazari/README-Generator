@@ -50,7 +50,7 @@
 
   After installing the required applications (Node.js) - run: node index.js
  
-   Video Guide - 1 [video guide](https://www.awesomescreenshot.com/video/7497518?key=39b1b50897de8d6ae47e34774bafb4f6){:target="_blank"}
+   Video Guide - [video guide](https://www.awesomescreenshot.com/video/7497518?key=39b1b50897de8d6ae47e34774bafb4f6)
   
   ## [License](#table-of-contents)
   The application is covered under the following license:
