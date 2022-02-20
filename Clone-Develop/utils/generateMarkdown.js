@@ -66,7 +66,7 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   ${renderLicenseTOC(data.license)}
   * [Contributing](#contributing)
-  * [Contact & Questions](#questions)
+  * [Questions](#questions)
   
   ## [Description](#table-of-contents)
   ${data.what}
