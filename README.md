@@ -68,5 +68,5 @@
 
 # Questions & Contact:
   
-  - GitHub
-  - Email: arbinazari@hotmail.com
+  - [GitHub](https://github.com/arbi nazari)
+  - [Email: arbi nazari](mailto:arbi nazari)
