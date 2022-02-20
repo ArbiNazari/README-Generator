@@ -79,10 +79,10 @@ function generateMarkdown(data) {
   
   
   ${renderLicenseSection(data.license)}
-  ## [Contributing](#table-of-contents)
+  ## [User Contributions](#table-of-contents)
   
   ${renderContributingSection(data.confirmContributers, data.contribute)}
-  ## [Questions](#table-of-contents)
+  ## [Contact & Questions](#table-of-contents)
   My Contact Information Below:
   [GitHub](https://github.com/${data.githubUsername})
   [Email: ${data.email}](mailto:${data.email})

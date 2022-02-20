@@ -15,23 +15,23 @@
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
-  As a developer, I want a quick professional Readme.md Generator for Github
+  As a developer, I want a quick professional Readme.md Generator for Github.
   undefined
   undefined
   ## [Installation](#table-of-contents)
-  npn install
+  npm install
   ## [Usage](#table-of-contents)
-  node index.js
+  node index.js after installtion of node.js
   
   
   
   ## [License](#table-of-contents)
-  The application is covered under the following license:
+  This application is being covered under the following license:
   
   [apache](https://choosealicense.com/licenses/apache)
     
     
-  ## [Contributing](#table-of-contents)
+  ## [User Contributions](#table-of-contents)
   
   
     Feel free to contact me if there are any issues or ideas to implement.
