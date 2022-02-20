@@ -25,7 +25,7 @@ const questions = [
             if (titleInput) {
                 return true;
             } else {
-                console.log('Please Explaint Your Prjoect');
+                console.log('Please Explain Your Prjoect');
                 return false;
             }
         }
