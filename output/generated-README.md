@@ -2,7 +2,7 @@
   # test
   
   
-  ![badge](https://img.shields.io/badge/license-apache-blue)
+  ![badge](https://img.shields.io/badge/license-agpl-blue)
     
   ## Table-of-Contents
   * [Description](#description)
@@ -12,7 +12,7 @@
   * [License](#license)
     
   * [Contributing](#contributing)
-  * [Questions](#questions)
+  * [Contact & Questions](#questions)
   
   ## [Description](#table-of-contents)
   test
@@ -28,10 +28,10 @@
   ## [License](#table-of-contents)
   This application is being covered under the following license:
   
-  [apache](https://choosealicense.com/licenses/apache)
+  [agpl](https://choosealicense.com/licenses/agpl)
     
     
-  ## [Contributions](#table-of-contents)
+  ## [Contributing](#table-of-contents)
   
   
     Feel free to contact me if there are any issues or ideas to implement.

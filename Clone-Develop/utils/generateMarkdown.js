@@ -66,7 +66,7 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   ${renderLicenseTOC(data.license)}
   * [Contributing](#contributing)
-  * [Questions](#questions)
+  * [Contact & Questions](#questions)
   
   ## [Description](#table-of-contents)
   ${data.what}
@@ -79,7 +79,7 @@ function generateMarkdown(data) {
   
   
   ${renderLicenseSection(data.license)}
-  ## [Contributions](#table-of-contents)
+  ## [Contributing](#table-of-contents)
   
   ${renderContributingSection(data.confirmContributers, data.contribute)}
   ## [Questions](#table-of-contents)
