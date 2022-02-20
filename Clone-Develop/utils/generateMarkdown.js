@@ -36,7 +36,7 @@ function renderLicenseSection(license) {
   if (license !== 'no license') {
   return `
   ## [License](#table-of-contents)
-  The application is covered under the following license:
+  This application is being covered under the following license:
   ${renderLicenseLink(license)}
     `;
   } else {
@@ -66,7 +66,7 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   ${renderLicenseTOC(data.license)}
   * [Contributing](#contributing)
-  * [Questions](#questions)
+  * [Contact & Questions](#questions)
   
   ## [Description](#table-of-contents)
   ${data.what}
@@ -82,7 +82,7 @@ function generateMarkdown(data) {
   ## [Contributing](#table-of-contents)
   
   ${renderContributingSection(data.confirmContributers, data.contribute)}
-  ## [Contact & Questions](#table-of-contents)
+  ## [Questions](#table-of-contents)
   My Contact Information Below:
   [GitHub](https://github.com/${data.githubUsername})
   [Email: ${data.email}](mailto:${data.email})
